@@ -1,1 +1,3 @@
-💥 prnt.sc parser by guns.lol/justenotik
+💥 prnt.sc Parser
+
+🧮 Libraries: random, string, time, requests, bs4
